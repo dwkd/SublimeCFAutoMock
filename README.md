@@ -14,3 +14,10 @@ Capabilities
     4. Dummy assertion call
   3. Create "Missing Arguments" unit tests 
   4. Create private method to get ObjectToBeTested
+
+
+Install
+=======
+  CFAutoMock can now be installed via Package Control https://sublime.wbond.net/installation<br>
+  Sublime > Preferences > Package Control > Install Package > Type CFAutoMock > Install > Enjoy!
+  
