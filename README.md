@@ -21,3 +21,6 @@ Install
   CFAutoMock can now be installed via Package Control https://sublime.wbond.net/installation<br>
   Sublime > Preferences > Package Control > Install Package > Type CFAutoMock > Install > Enjoy!
   
+Hwo to use
+==========
+  Open a CFC in Sublime 2 and press CTRL + K (win,linux) or Super + K (mac)
